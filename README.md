@@ -69,4 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+## Frontend
 # npm install @emotion/react @emotion/styled @mui/icons-material @mui/lab @mui/material axios file-saver react-lazy-load-image-component react-router-dom styled-components
+
+
+## Backend
+# npm install cloudinary cors dotenv express mongoose nodemon openai
+
+# cloudinary for uploading photo to cloud
+
